@@ -1,2 +1,44 @@
 basic html
 
+<!DOCTYPE html>
+<html lang="en"> <!-- language type -->
+    <head> <!-- contains meta information to render correctly- nothing that displays should be here -->
+        <meta charset="UTF-8"> <!-- encoding of the webpage to allow symbols and languages-->
+        <title>My First Webpage</title> <!-- this will display on tab for user or defaults to index-->
+    </head>
+
+    <body>
+        <h1>Hello World! Meh! Yay!</h1>
+        <p><strong>Makes me bold looking</strong> </p>
+        <p> <em> Makes me italic</em></p>
+        <p>sit amet consectetur adipisicing elit. Quibusdam molestias repellendus eaque odit praesentium sequi ducimus nesciunt perferendis, quasi ad ut natus deserunt pariatur vitae exercitationem tenetur. Obcaecati, quibusdam soluta.</p>
+        <h1>Heading One</h1>
+        <h2>Heading two</h2>
+        <h3>Heading three</h3>
+        <h4>Heading four</h4>
+        <h5>Heading five</h5>
+        <p><strong> I am a bold paragraph. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nesciunt soluta consequuntur consectetur voluptatibus odio quos labore maiores impedit explicabo odit error sunt non blanditiis modi tempore voluptatem autem, laudantium neque!</strong></p>
+        <h6>Heading Six</h6>
+        <p><em>Hiya I am in italic</em></p>
+        <li>
+            <ol>
+                <li>An ordered list</li>
+                <li>Cheese wins</li>
+                <li>Then crisps</li>
+                <li>Burgers</li>
+            </ol>
+        </li>
+        <li>
+            <ul>
+                <li>An unordered list</li>
+                <li>Lola</li>
+                <li>Ockie</li>
+                <li>Green and Blue dinosaur</li>
+                <li>Mad and Chubby Chicken</li>
+                <li>Tuduck</li>
+            </ul>
+        </li>
+    </body><!--displays all viewable content for user-->
+   <!-- command plus / will add a comment :) -->
+</html>
+
